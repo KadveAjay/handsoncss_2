@@ -1,0 +1,148 @@
+body{
+    
+    background-image: url(https://i.pinimg.com/736x/ea/d6/2d/ead62de37377481be53a8a994ee406b8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-width: 20px;
+    border-color: green;
+    border-style: groove;
+    margin:0%
+}
+
+.one{
+    
+    height: 40%;
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding: 10px;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 25px;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    line-height: 40px;
+
+}
+.one1{
+    
+    height: 5%;
+    width: 25%;
+    margin-top: -90px;
+    margin-left: 290px;
+    padding: 10px;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 25px;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    word-spacing: 10px;
+
+}
+.one2{
+    
+    height: 15%;
+    width: 20%;
+    margin-top: 30px;
+    margin-right: 20px;
+    padding: 10px;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 25px;
+    position: absolute;
+    top: 1%;
+    right: 1%;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    line-height: 40px;
+
+}
+.form{
+    height: 650px;
+    width: 400px;
+    background-color: aliceblue;
+    border: 5px dashed red;
+    margin-right: -50px;
+    padding: 10px;
+    position: absolute;
+    top: 200px;
+    right: 250px;
+    text-align: center;
+
+}
+.offers{
+    background-color: rgb(10, 125, 125);
+    border: 5px solid gray;
+    text-decoration: underline;
+    font-style: italic;
+    height:300px;
+    width: 300px;
+    border-radius: 50%;
+    padding: 40px 35px;
+    margin: 300px 50px 230px 120px;
+    text-align: center;
+  
+
+}
+.first{
+    width:350px;
+    margin-bottom: 30px;
+    margin-left: -25px;
+}
+.two{
+    width:350px;
+    margin-top: 50px;
+    margin-left: -25px;
+}
+.menu{
+    
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 20px;
+    height: 30px;
+    width: 300px;
+    margin-top:40px ;
+    margin-right: 40%;
+    margin-bottom: 40px;
+    margin-left: 40%;
+    padding-bottom: 25px;
+
+   }
+   .three{
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+
+
+   }
+   
+   .Starter{
+    color: blue;
+    background-color: aqua;
+    border: 2px solid green;
+    height: 190px;
+    width: 200px;
+    padding-bottom: 20px;
+    border-radius: 25px;
+
+   }
+   .type{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   }
+   .fix{
+    width: 300px;
+    height: 250px;
+    border-radius: 5%;
+    background-color: aqua;
+    border: 3px solid black;
+    margin: 30px;
+    text-align: center;
+ 
+   }
